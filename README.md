@@ -8,6 +8,7 @@ You can get your trophies every 5 second.
 # How to use
 
 Edit Token in trophies.php
+
 You can get token from here https://developer.brawlstars.com/
 
 Upload file to php webserver.
