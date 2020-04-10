@@ -1,8 +1,14 @@
 # Brawl Stars Auto Update Trophies Website
 
-Edit Token in trophies.php.
+# What is it?
+
+It's a php website.
+You can get your trophies every 5 second.
 
 # How to use
+
+Edit Token in trophies.php
+You can get token from here https://developer.brawlstars.com/
 
 Upload file to php webserver.
 Use https://yourdomain/trophies.php?tag=YourPlayerTag
