@@ -1,4 +1,4 @@
-# PHP-Brawl-Stars-API
+# Brawl Stars Auto Update Trophies Website
 
 Edit Token in api.php.
 
