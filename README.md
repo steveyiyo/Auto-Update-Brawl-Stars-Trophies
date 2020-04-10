@@ -18,5 +18,5 @@ Use https://yourdomain/trophies.php?tag=YourPlayerTag
 
 Demo: https://api.steveyi.net/bs/trophies.php?tag=8L9LL8V
 ![image](https://static.yiy.tw/media/yi/bs/trophies-api.png)
-
+<img src="https://static.yiy.tw/media/yi/bs/trophies-api.png">
 Join SteveYi Gaming Discord Server: https://steveyigame.com/discord
