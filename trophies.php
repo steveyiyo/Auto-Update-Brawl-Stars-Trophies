@@ -51,6 +51,6 @@ if (isset($data["reason"])) {
     exit;
   }
 ?>
-    <tr><?php echo $data["trophies"]; ?></tr>
+    <h1><tr><?php echo $data["trophies"]; ?></tr></h1>
 </body>
 </html>
