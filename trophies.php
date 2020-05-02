@@ -28,7 +28,15 @@ if (isset($data["reason"])) {
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>即時更新獎盃系統</title>
+  <title>
+    <?php 
+    if (isset($errormsg)) {
+      echo '即時獎杯系統' ;
+    } else{
+      echo $data["name"];
+    }
+    ?>
+  </title>
   <link rel="shortcut icon" href="img/icon_trophy.png" type="image/x-icon">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@900&display=swap" rel="stylesheet">
   <link rel="stylesheet" type="text/css"  href="css/style.css">
