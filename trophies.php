@@ -42,6 +42,7 @@ if (isset($data["reason"])) {
   <link rel="stylesheet" type="text/css"  href="css/style.css">
   <meta http-equiv="refresh" content="5" />
 </head>
+<body>
 <?php
   if (isset($errormsg)) {
     echo "<a>", '錯誤訊息: 請檢查你的玩家標籤是否錯誤(或是官方正在維護)' , "</a>";
