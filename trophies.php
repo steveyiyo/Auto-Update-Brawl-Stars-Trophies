@@ -7,8 +7,8 @@
 -->
 <?php
 $playertag = $_GET['tag'];
-$token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6Ijk5NmE4OGYzLWM4NjQtNGM5My05NmIwLTk5OWMyOTFkMzIzZSIsImlhdCI6MTU4MTYyMzM3MSwic3ViIjoiZGV2ZWxvcGVyL2YwZWU1MTE3LWViY2EtYmRhOC1jMzI3LTMwZGNkYjhjYmQ1ZiIsInNjb3BlcyI6WyJicmF3bHN0YXJzIl0sImxpbWl0cyI6W3sidGllciI6ImRldmVsb3Blci9zaWx2ZXIiLCJ0eXBlIjoidGhyb3R0bGluZyJ9LHsiY2lkcnMiOlsiMTguMTc4LjY2LjE2NSJdLCJ0eXBlIjoiY2xpZW50In1dfQ.SmMVptIGInpaGCXIwp6U9oeYYohTG8OP1QqFZOsGBz_oIM93vvyW3ruBvVbAlL7wi-m9RFGN-66Irbo6AHIlng";
-$url = "https://api.brawlstars.com/v1/players/%23" . urlencode(strtoupper($playertag));
+$token = ""; //edit it
+$url = "https://api.brawlstars.com/v1/players/%23".urlencode(strtoupper($playertag));
 $ch = curl_init($url);
 $headr = array();
 $headr[] = "Accept: application/json";
