@@ -42,6 +42,7 @@ if (isset($data["reason"])) {
   <link rel="stylesheet" type="text/css"  href="css/style.css">
   <meta http-equiv="refresh" content="5" />
 </head>
+    
 <body>
 <?php
   if (isset($errormsg)) {
