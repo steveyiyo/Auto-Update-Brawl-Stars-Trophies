@@ -16,14 +16,12 @@ $headr[] = "Authorization: Bearer ".$token;
 curl_setopt($ch, CURLOPT_HTTPHEADER, $headr);
 curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
 curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
-curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1); 
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
 $res = curl_exec($ch);
 $data = json_decode($res, true);
 curl_close($ch);
 if (isset($data["reason"])) {
   $errormsg = true;
-} else {
-  $nothing = true;
 }
 ?>
 <!DOCTYPE html>
@@ -39,10 +37,7 @@ if (isset($data["reason"])) {
 <?php
   if (isset($errormsg)) {
     echo "<a>", '錯誤訊息: 請檢查你的玩家標籤是否錯誤(或是官方正在維護)' , "</a>";
-  }
-?>
-<?php 
-  if (isset($nothing)) {
+  } else{
     echo "<h1>", $data["trophies"] , "</h1>";
   }
 ?>
