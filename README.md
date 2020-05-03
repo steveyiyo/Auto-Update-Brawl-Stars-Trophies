@@ -22,7 +22,8 @@ Demo: https://api.steveyi.net/bs/trophies.php?tag=8L9LL8V
 Join SteveYi Gaming Discord Server: https://steveyigame.com/discord
 
 # Update log
-```2020.05.02
+```
+2020.05.02
 repair source
 optimization code
 Fix the title
