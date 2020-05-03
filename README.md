@@ -20,3 +20,13 @@ Demo: https://api.steveyi.net/bs/trophies.php?tag=8L9LL8V
 ![image](https://github.com/SteveYiGame/BrawlStars-Auto-Update-Trophies/blob/master/img/trophies-api.png)
 
 Join SteveYi Gaming Discord Server: https://steveyigame.com/discord
+
+# Update log
+```2020.05.02
+<li>repair source</li>
+<li>optimization code</li>
+<li>Fix the title</li>```
+
+```2020.05.03
+<li>optimization code</li>
+```
