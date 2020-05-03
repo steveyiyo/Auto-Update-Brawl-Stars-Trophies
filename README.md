@@ -23,10 +23,10 @@ Join SteveYi Gaming Discord Server: https://steveyigame.com/discord
 
 # Update log
 ```2020.05.02
-<li>repair source</li>
-<li>optimization code</li>
-<li>Fix the title</li>
+repair source
+optimization code
+Fix the title
 
 2020.05.03
-<li>optimization code</li>
+optimization code
 ```
