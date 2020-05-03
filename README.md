@@ -17,7 +17,9 @@ Use https://yourdomain/trophies.php?tag=YourPlayerTag
 # Demo
 
 Demo: https://api.steveyi.net/bs/trophies.php?tag=8L9LL8V
-![image](https://github.com/SteveYiGame/BrawlStars-Auto-Update-Trophies/blob/master/img/trophies-api.png)
+![image](https://github.com/SteveYiGame/BrawlStars-Auto-Update-Trophies/blob/master/img/ScreenShot01.png)
+![image](https://github.com/SteveYiGame/BrawlStars-Auto-Update-Trophies/blob/master/img/ScreenShot02.png)
+![image](https://github.com/SteveYiGame/BrawlStars-Auto-Update-Trophies/blob/master/img/ScreenShot03.png)
 
 Join SteveYi Gaming Discord Server: https://steveyigame.com/discord
 
