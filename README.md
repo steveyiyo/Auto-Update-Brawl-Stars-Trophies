@@ -25,8 +25,8 @@ Join SteveYi Gaming Discord Server: https://steveyigame.com/discord
 ```2020.05.02
 <li>repair source</li>
 <li>optimization code</li>
-<li>Fix the title</li>```
+<li>Fix the title</li>
 
-```2020.05.03
+2020.05.03
 <li>optimization code</li>
 ```
