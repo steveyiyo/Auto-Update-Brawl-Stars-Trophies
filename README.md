@@ -5,7 +5,7 @@
 # What is it?
 
 It's a php website.
-You can get your trophies every 5 second.
+You can get your trophy count every 5 second.
 
 # How to use
 
