@@ -33,5 +33,12 @@ optimization code
 Fix the title
 
 2020.05.03
+
+If user doesn’t enter player tag, the message “請輸入玩家標籤” will pop out ,and a form will display for user to type in.
+If player tag is wrong, the message “你輸入的標籤錯誤” will pop out ,and a form will display for user to type in.
+If Brawl Stars API is in maintenance, the message “官方正在維護” will pop out
+
+2020.05.07
+import external css
 optimization code
 ```
