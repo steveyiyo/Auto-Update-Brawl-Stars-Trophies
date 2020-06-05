@@ -12,6 +12,7 @@
 編輯 trophies.php 中的token
 
 你可以在 https://developer.brawlstars.com/ 取得token
+
 將檔案上傳至php伺服器
 
 使用 https://yourdomain/trophies.php?tag=你的玩家標籤 來瀏覽
