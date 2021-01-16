@@ -21,7 +21,8 @@ SteveYi 在剛學習 php 時設計的網頁，與 [Brawl Stars API](https://deve
 
 ### 示範
 
-示範: https://api.yiy.tw/BrawlStars/trophies.php
+示範連結暫時不可使用，但他將會盡快出現
+
 ![image](https://github.com/SteveYiGame/BrawlStars-Auto-Update-Trophies/blob/master/img/ScreenShot01.png)
 ![image](https://github.com/SteveYiGame/BrawlStars-Auto-Update-Trophies/blob/master/img/ScreenShot02.png)
 ![image](https://github.com/SteveYiGame/BrawlStars-Auto-Update-Trophies/blob/master/img/ScreenShot03.png)
