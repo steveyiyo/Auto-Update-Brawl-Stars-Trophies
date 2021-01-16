@@ -20,7 +20,8 @@ Use https://yourdomain/trophies.php?tag=YourPlayerTag
 
 ### Demo
 
-Demo: https://api.yiy.tw/BrawlStars/trophies.php
+Demo link not available, but it will come back soon.
+
 ![image](https://github.com/SteveYiGame/BrawlStars-Auto-Update-Trophies/blob/master/img/ScreenShot01.png)
 ![image](https://github.com/SteveYiGame/BrawlStars-Auto-Update-Trophies/blob/master/img/ScreenShot02.png)
 ![image](https://github.com/SteveYiGame/BrawlStars-Auto-Update-Trophies/blob/master/img/ScreenShot03.png)
